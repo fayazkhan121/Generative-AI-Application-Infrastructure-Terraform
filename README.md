@@ -1,6 +1,8 @@
 # Terraform Infrastructure for Generative AI Application
 
 This repository contains Terraform code for deploying a production-ready infrastructure for a generative AI application in AWS. The infrastructure is designed to meet the requirements specified for securely hosting a generative AI application with PostgreSQL for structured data, Cassandra (implemented via MSK) for timeseries data, Kubernetes for application workloads, GPU acceleration, and secure connectivity.
+![image](https://github.com/user-attachments/assets/2cdc308f-5c5a-4bbc-8ef8-0825c27ebcd9)
+
 
 ## Architecture Overview
 
